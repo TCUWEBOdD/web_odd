@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CR"
-title                    : "ConectaR 2021"
+title                    : "OdD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ConectaR 2021"
+name                     : "OdD"
 description              : "Encuentro de comunidades R"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -91,7 +91,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ConectaR 2021"
+  name             : "OdD"
   avatar           : "https://pbs.twimg.com/profile_images/1280322256212811776/qKmJZsMy_400x400.jpg"
   location         : "San José, Costa Rica"
   email            :
