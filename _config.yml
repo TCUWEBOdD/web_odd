@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "es-CR"
-title                    : #"OdD"
+title                    : "OdD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "OdD"
@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "OdD"
-  avatar           : "https://pbs.twimg.com/profile_images/1280322256212811776/qKmJZsMy_400x400.jpg"
+  avatar           : "https://github.com/TCUWEBOdD/web_odd/blob/main/img/odd-2-300x58.png"
   location         : "San José, Costa Rica"
   email            :
   links:
