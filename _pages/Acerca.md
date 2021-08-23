@@ -62,10 +62,6 @@ Transferir los conocimientos y tecnologías generados para que otras institucion
 De acuerdo al reglamento Interno del Observatorio del Desarrollo en su artículo 8, los miembros del Consejo Técnico Asesor serán designados por el Vicerrector de Investigación, según lo establezca este mismo reglamento, a propuesta del OdD.
 
 El Consejo Técnico Asesor se reunirá ordinariamente una vez al mes y extraordinariamente cuando lo convoque el Vicerrector de Investigación o el Director. Será el máximo órgano decisor del OdD en materia de políticas generales.
-
-## Participación Estudiantil
-El Observatorio del Desarrollo abre sus puertas a todo estudiante nacional o extranjero que desee realizar una pasantía o su Trabajo Comunal Universitario en nuestra Unidad. Si está interesado o interesada no dude en contactarnos al correo: odd.ucr.ac.cr o en nuestras redes sociales
-
 De acuerdo al reglamento Interno del Observatorio del Desarrollo en su artículo 8, los miembros del Consejo Técnico Asesor serán designados por el Vicerrector de Investigación, según lo establezca este mismo reglamento, a propuesta del OdD.
 
 **Le Correspondencia:**
@@ -92,6 +88,11 @@ De acuerdo al reglamento Interno del Observatorio del Desarrollo en su artículo
 - ### Quienes Somos
 
 El Observatorio del Desarrollo (OdD), es una unidad de apoyo a la investigación de la Universidad de Costa Rica, orientada a consolidar los procesos de reflexión y toma de decisiones brindando acceso oportuno a información en temas relevantes para el desarrollo nacional.
+
+
+## Participación Estudiantil
+El Observatorio del Desarrollo abre sus puertas a todo estudiante nacional o extranjero que desee realizar una pasantía o su Trabajo Comunal Universitario en nuestra Unidad. Si está interesado o interesada no dude en contactarnos al correo: odd.ucr.ac.cr o en nuestras redes sociales
+
 
 ### Contacto
 
