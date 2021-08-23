@@ -1,3 +1,9 @@
+---
+permalink: /Acerca/
+layout: single
+title: Acerca
+author_profile: true
+---
 
 ## Misión
 Ser líderes en la aplicación de metodologías innovadoras para sistematizar y transformar la información existente en nuevo conocimiento e indicadores sobre el estado de las capacidades humanas y contribuir a la definición de una agenda y de políticas públicas para su mejoramiento y el desarrollo del país.
