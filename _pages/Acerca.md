@@ -57,13 +57,16 @@ Transferir los conocimientos y tecnologías generados para que otras institucion
 -   Ejecutamos proyectos a nivel nacional en temas como democracia, ciudadanía, género, biodiversidad, calidad de vida y bienestar.
 -   Establecemos sistemas de seguimiento y monitoreo del desarrollo nacional.
 
-[Consejo Asesor](https://odd.ucr.ac.cr/acerca/#filosofia)
-
-[Participación Estudiantil](https://odd.ucr.ac.cr/acerca/#filosofia)
+## Consejo Asesor
 
 De acuerdo al reglamento Interno del Observatorio del Desarrollo en su artículo 8, los miembros del Consejo Técnico Asesor serán designados por el Vicerrector de Investigación, según lo establezca este mismo reglamento, a propuesta del OdD.
 
 El Consejo Técnico Asesor se reunirá ordinariamente una vez al mes y extraordinariamente cuando lo convoque el Vicerrector de Investigación o el Director. Será el máximo órgano decisor del OdD en materia de políticas generales.
+
+## Participación Estudiantil
+El Observatorio del Desarrollo abre sus puertas a todo estudiante nacional o extranjero que desee realizar una pasantía o su Trabajo Comunal Universitario en nuestra Unidad. Si está interesado o interesada no dude en contactarnos al correo: odd.ucr.ac.cr o en nuestras redes sociales
+
+De acuerdo al reglamento Interno del Observatorio del Desarrollo en su artículo 8, los miembros del Consejo Técnico Asesor serán designados por el Vicerrector de Investigación, según lo establezca este mismo reglamento, a propuesta del OdD.
 
 **Le Correspondencia:**
 
