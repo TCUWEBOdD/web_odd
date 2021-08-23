@@ -1,20 +1,16 @@
----
-permalink: /Filosofia/
-layout: single
-title: Filosofía de Trabajo
-author_profile: true
----
 
-
-[Misión](https://odd.ucr.ac.cr/acerca/#filosofia)
-
-[Visión](https://odd.ucr.ac.cr/acerca/#filosofia)
-
-[Historia](https://odd.ucr.ac.cr/acerca/#filosofia)
-
-[Logros](https://odd.ucr.ac.cr/acerca/#filosofia)
-
+## Misión
 Ser líderes en la aplicación de metodologías innovadoras para sistematizar y transformar la información existente en nuevo conocimiento e indicadores sobre el estado de las capacidades humanas y contribuir a la definición de una agenda y de políticas públicas para su mejoramiento y el desarrollo del país.
+## Visión
+Ser la instancia de referencia obligada en la definición de políticas y en la cooperación y coordinación de acciones específicas en áreas temáticas del desarrollo nacional y regional.
+## Historia
+El Observatorio del Desarrollo fue creado en 1997 bajo la dirección del Dr. Edgar Gutiérrez Espeleta.
+## Logros
+El OdD ha generado varios portales de información, en temas específicos del desarrollo como elecciones, pequeña y mediana empresa, persona joven, violencia, discapacidad, entre otros.
+
+El OdD ha transferido su metodología al desarrollo de observatorios en temas como, Pequeña y Mediana Empresa, Persona Joven, Discapacidad, Autonomía Municipal, Turismo, Paisaje, Ciencia y Tecnología.
+
+Es innovador en la aplicación de herramientas para visualizar la dinámica y los cambios en la medición del desarrollo.
 
 **Nota del Director**  
 Bienvenidos al Observatorio del Desarrollo. Desde su creación en 1997, bajo la dirección de Dr. Edgar Gutiérrez Espeleta, el OdD ha servido como centro de apoyo a la investigación de la Universidad de Costa Rica, con la misión de proporcionar información relevante y oportuna al proceso nacional de toma de decisiones sobre el desarrollo costarricense. Nos hemos destacado por un trabajo interdisciplinario, suministrando información en forma de indicadores e índices y realizando análisis propios, contribuyendo al mejoramiento del conocimiento y de los sistemas de información de las instituciones nacionales e internacionales en el campo ambiental, económico y social.  
