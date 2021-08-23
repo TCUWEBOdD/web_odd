@@ -5,7 +5,7 @@ main:
   - title: "Publicaciones"
     
   - title: "Proyectos"
-  url: "/Proyectos/"
+    url: "/Proyectos/"
     
   - title: "Índices"
     
