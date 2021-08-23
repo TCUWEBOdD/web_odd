@@ -16,7 +16,7 @@
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
                 <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>
-                {% if link.title== "About" %}  
+                {% if link.title== "Acerca" %}  
                 	{{link.title}}
                 	<div class="dropdown-content">
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/InternationalStatisticalInstitute/">International Statistical Institute</a>
@@ -27,17 +27,20 @@
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/GeneralInformationPastWSCs/">General Information & Past WSCs</a>
               		</div>
                 {% endif %}
-              	{% if link.title== "Registration" %}
+              	{% if link.title== "Publicaciones" %}
               		{{link.title}} 
                 {% endif %}
-                {% if link.title== ""Scientific Programme"" %}
+                {% if link.title== "Índices" %}
               		{{link.title}} 
                 {% endif %}
-                {% if link.title== "Sponsorship & Exhibition" %}
+                {% if link.title== "Personal" %}
               		{{link.title}} 
                 {% endif %}
-                {% if link.title== "News" %}
+                {% if link.title== "Contacto" %}
               		{{link.title}} 
+                {% endif %}
+                {% if link.title== "Blog" %}
+                  {{link.title}} 
                 {% endif %}
             </a>
               </li>

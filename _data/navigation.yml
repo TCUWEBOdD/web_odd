@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "About"
+  - title: "Acerca"
     
-  - title: "Registration"
+  - title: "Publicaciones"
     
-  - title: "Scientific Programme"
+  - title: "Proyectos"
     
-  - title: "Sponsorship & Exhibition"
+  - title: "Índices"
     
-  - title: "News"
+  - title: "Personal"
+  - title: "Contacto"
+  - title: "Blog"
     
