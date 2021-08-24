@@ -1,9 +1,11 @@
- ---
+---
 permalink: /Proyectos/
 layout: single
 title: Proyectos
 author_profile: true
 ---
+
+
  [![](https://odd.ucr.ac.cr/wp-content/uploads/2019/10/Costa-Rica-1024x682.jpeg)](https://oddapp2.shinyapps.io/TerritorioVivo/) 
 
 # [Territorio Vivo](https://oddapp2.shinyapps.io/TerritorioVivo/)
