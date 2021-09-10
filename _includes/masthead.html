@@ -15,34 +15,35 @@
           {%- for link in site.data.navigation.main -%}
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
-                <a href="{{ /#/ | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
                 {% if link.title== "Acerca" %}  
                   <div class="dropdown-content">
-                    <a href="{{ /Filosofia/ | relative_url }}">Filosofia</a>
-                    <!-- <a href="https://tcuwebodd.github.io/isi_cr2022/GoingVirtual/">Going Virtual</a>
-                    <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgrammeCommittee/">Scientific Programme Committee</a>
-                    <a href="https://tcuwebodd.github.io/isi_cr2022/FrequentlyAskedQuestions/">Frequently Asked Questions</a>
-                    <a href="https://tcuwebodd.github.io/isi_cr2022/AssociationsIndividualConductPolicy/">ISI & ISI Associations Individual Conduct Policy</a>
-                    <a href="https://tcuwebodd.github.io/isi_cr2022/GeneralInformationPastWSCs/">General Information & Past WSCs</a> -->
+                    <a href="https://tcuwebodd.github.io/web_odd/Filosofia/">Filosofia</a>
+                    <a href="https://tcuwebodd.github.io/web_odd/Valores/">Valores</a>
+                    <a href="https://tcuwebodd.github.io/web_odd/QueHacemos/">¿Qué Hacemos?</a>
+                    <a href="https://tcuwebodd.github.io/web_odd/ConsejoAsesor/">Consejo Asesor</a>
                   </div>
                 {% endif %}
               	{% if link.title== "Publicaciones" %}
-              		{{link.title}} 
+                  <div class="dropdown-content">
+                    <a href="https://tcuwebodd.github.io/web_odd/ExplorarPublicaciones/">Explorar Publicaciones</a>
+                    <a href="https://tcuwebodd.github.io/web_odd/BuscarPorTema/">Buscar Por Tema</a>
+                  </div>
                 {% endif %}
                 {% if link.title== "Proyectos" %}
-                  {{link.title}} 
+                
                 {% endif %}
                 {% if link.title== "Índices" %}
-              		{{link.title}} 
+                
                 {% endif %}
                 {% if link.title== "Personal" %}
-              		{{link.title}} 
+
                 {% endif %}
                 {% if link.title== "Contacto" %}
-              		{{link.title}} 
+
                 {% endif %}
                 {% if link.title== "Blog" %}
-                  {{link.title}} 
+
                 {% endif %}
               </li>
             </div>
