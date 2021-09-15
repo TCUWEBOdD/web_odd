@@ -5,8 +5,8 @@ title: Proyectos
 author_profile: true
 ---
 
-### Información de proyectos en curso
-| :-------------: |
+## Información de proyectos en curso
+| ------------- |
 | En la siguiente sección va a encontrar información de los proyectos que están siendo desarrollados en OdD así como un link a cada uno de ellos. |
 
 | Nombre del proyecto | Descripción |
@@ -18,8 +18,8 @@ author_profile: true
 | [Observatorio del Turismo del Caribe](http://obturcaribe.ucr.ac.cr/) | Conozca el Observatorio del Turismo Sostenible del Caribe, un espacio de observación, recopilación, generación y análisis técnico e interdisciplinario de la información, que reúne diversos sectores con el propósito de vigilar, verificar y medir la evolución del sector turismo en el Caribe para contribuir al desarrollo de un turismo sostenible en la región. |
 | [Centroamérica en Cifras](http://odd.ucr.ac.cr/centroamerica-en-cifras/) | El Observatorio del Desarrollo de la Universidad de Costa Rica presenta el compendio de estadísticas regionales, para el periodo 2000-2013. Forma parte de la iniciativa digital Tendencias del Desarrollo Costarricense, cuyo objetivo es ofrecer estadísticas en cuatro ejes fundamentales: ambiental, social, económico e institucional. Información recopilada del Informe Estadísticas de Centroamérica, 2014, del Programa Estado de la Nación, 2015. |
 
-### Información de proyectos nuevos
-| :-------------: |
+## Información de proyectos nuevos
+| ------------- |
 | En la siguiente sección va a encontrar información de los proyectos recién creados en OdD así como un link a cada uno de ellos. |
 
 | Nombre del proyecto | Descripción |
@@ -27,8 +27,8 @@ author_profile: true
 | [Índice de Bienestar Cantonal (IBC)](http://odd.ucr.ac.cr/indice-de-bienestar-cantonal-ibc-como-lo-medimos/?preview_id=74638&preview_nonce=b5499b247b&preview=true&_thumbnail_id=74640) | El índice de Bienestar Cantonal (IBC) es un indicador que busca medir el bienestar de las personas a nivel cantonal.Para definir cuáles serían los índices y métricas que determinarían el bienestar cantonal, se tomaron en cuenta los Objetivos de Desarrollo Sostenible (ODS). |
 | <b> Recálculo de la Huella Ecológica para Costa Rica </b> | Existen múltiples proyectos, programas y organizaciones que se dedican a cuidar el medio ambientes, pero ¿cuántos de ellos se ocupan de la calidad del oxígeno, las emisiones de carbono y de gases con efecto invernadero? |
 
-### Información de proyectos finalizados
-| :-------------: |
+## Información de proyectos finalizados
+| ------------- |
 | En la siguiente sección va a encontrar información de los proyectos que ya han concluido en OdD así como un link a cada uno de ellos. |
 
 | Nombre del proyecto | Descripción |
